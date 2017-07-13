@@ -17,6 +17,7 @@ print num
 #reasign a variable
 num = 30
 print num
+
 # global variables
 name = "Lis"
 def myFunction():
@@ -31,5 +32,5 @@ print name
 # del -> delete a varible assignmet
 color = "red"
 print color
-del color 
+del color
 print color

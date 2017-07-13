@@ -2,7 +2,7 @@
 #while loops
 def boom():
     x = 5
-    while ( x > 0):
+    while (x > 0):
         print "boom" + str(x)
         x = x - 1
 boom ()
@@ -36,7 +36,7 @@ favNums(numbers)
 
 def myNums():
     for i in range(1, 10):
-        if( i == 5): break
+        if(i == 5): break
         print i
 
 myNums()

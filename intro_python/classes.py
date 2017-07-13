@@ -7,7 +7,7 @@ class myStudents():
         print "Student is taking: " + course
 
 #using inhertance
-class  otherStudents(myStudents):
+class otherStudents(myStudents):
     def method2(self, course):
         print "Stundent change class from python to" + course
 
